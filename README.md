@@ -9,6 +9,8 @@
 ### 📫 Como entrar em contato comigo...
 <div> <a href="https://www.linkedin.com/in/diego-oliveira-rocha-67940b216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 
+###
+
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green"/>
 </p>
