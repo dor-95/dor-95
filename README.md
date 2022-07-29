@@ -1,6 +1,6 @@
 ### Olá, meu nome é Diego 👋
 
-#### 🔭 Atualmente estou realizando o Curso de Formação de Programadores ofertado pelo Biopark (Toledo/Paraná/Brasil)
+<!--#### 🔭 Atualmente estou realizando o Curso de Formação de Programadores ofertado pelo Biopark (Toledo/Paraná/Brasil)-->
 
 ### 🌱 Atualmente estou aprendendo...
 ###
