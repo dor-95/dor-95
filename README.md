@@ -1,7 +1,14 @@
-### Hi there 👋
+### Olá, meu nome é Diego 👋
 
-🌱 Atualmente estou aprendendo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+#### 🔭 Atualmente estou realizando o Curso de Formação de Programadores ofertado pelo Biopark (Toledo/Paraná/Brasil)
+
+### 🌱 Atualmente estou aprendendo...
+###
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+#
+### 📫 Como entrar em contato comigo...
+<div> <a href="https://www.linkedin.com/in/diego-oliveira-rocha-67940b216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+
 
 <!--
 **dor-95/dor-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
