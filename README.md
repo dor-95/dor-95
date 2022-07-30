@@ -1,3 +1,6 @@
+ 
+ <img align="right" width="250px" style="margin-top:-20px" src="">
+ 
  # Olá, meu nome é Diego 😄
 
 Tenho 26 anos, sou graduado em enfermagem, no momento realizando transição de carreira para área de tecnologia. A cada aprendizado reafirmo o objetivo de tornar-se desenvolvedor full-stack 👨‍💻.
